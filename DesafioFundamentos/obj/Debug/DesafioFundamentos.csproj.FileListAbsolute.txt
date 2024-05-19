@@ -1,0 +1,7 @@
+C:\Programas\Curso DIO\DesafioFundamentos\DesafioFundamentos\bin\Debug\DesafioFundamentos.exe.config
+C:\Programas\Curso DIO\DesafioFundamentos\DesafioFundamentos\bin\Debug\DesafioFundamentos.exe
+C:\Programas\Curso DIO\DesafioFundamentos\DesafioFundamentos\bin\Debug\DesafioFundamentos.pdb
+C:\Programas\Curso DIO\DesafioFundamentos\DesafioFundamentos\obj\Debug\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\Programas\Curso DIO\DesafioFundamentos\DesafioFundamentos\obj\Debug\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Programas\Curso DIO\DesafioFundamentos\DesafioFundamentos\obj\Debug\DesafioFundamentos.exe
+C:\Programas\Curso DIO\DesafioFundamentos\DesafioFundamentos\obj\Debug\DesafioFundamentos.pdb
